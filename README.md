@@ -85,4 +85,4 @@ youtube-trending-analysis/
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sabina-neva-4638423b5/
-- GitHub: [Your GitHub URL]
+- GitHub: https://github.com/sabinaseliya98-hue
